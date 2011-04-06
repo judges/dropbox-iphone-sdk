@@ -1,0 +1,7 @@
+name: dropbox-iphone-sdk
+version: 0.2
+source-directory: DropboxSDK
+resources-directory: Resources
+dependencies:
+  - MPOAuth: 1.0
+  - json-framework: 3.0beta1
